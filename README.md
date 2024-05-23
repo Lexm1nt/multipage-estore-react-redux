@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+Многостраничный сайт-магазин по продаже онлайн-курсов, созданный для кафедры рекламы и связи с общественностью (Новосибирский Государственный Университет Экономики и Управления). Реализован функционал корзины, фильтров, поиска, рейтинговых оценок.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Референсы: Udemy, Coursera, Знаниум.
+
+Стек: React, CSS-in-JS, React-Router, Redux
 
 ## Available Scripts
 
